@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📜 Experience
+💼 Experience
 
 - **IITP K-SW Sqaure** - Purdue University Student Intern(_2022.09-2022.12_)
 
@@ -34,6 +34,15 @@ Here are some ideas to get you started:
 
 - **Marine Fisheries Big Data Analysis Competition**, 3rd(_2021.08_)<br>
 Maritime Logistics Freight Rate Prediction using LSTM model
+
+
+<!--
+📜 Conference
+
+- **2023 ICTC(The 14th International Conference on ICT Convergence)** - Outdoor Long Range Ubiquitous Projectiles Tracking System Using P-MPLR and Computer Vision(_2023_)
+
+- **IEEE/IEIE ICCE-Asia 2023(The 8th International Conference On Consumer Electronics (ICCE) Asia)** - Developing an Integrated Dashboard to Analyze Multimodal Data for User Experience Evaluation(_2023_)
+-->
 
 <br/>
 ✨ Github Stats
