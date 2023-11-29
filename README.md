@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 💼 Experience
+
+## 💼 Experiences
 
 - **IITP K-SW Sqaure** - Purdue University Student Intern(_2022.09-2022.12_)<br/>
 
@@ -38,9 +39,17 @@ Maritime Logistics Freight Rate Prediction using LSTM model
 
 
 <!--
+Furiosa AI
+
 ## 📜 Conference
+2023 ICTC
+2023 ICCE-ASIA
+2023 CSA
+2023 KSC
 
-
+## 🔠 Copyrights
+C-2023-044704
+C-2023-053985
 -->
 
 
