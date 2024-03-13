@@ -23,29 +23,31 @@ Here are some ideas to get you started:
 
 
 ## 💼 Experiences
-
-- **IITP K-SW Sqaure** - Purdue University Student Intern(_2022.09-2022.12_)<br/>
-
-- **ETRI** - Research Intern(_2023.01-2023.02_)   
+- **ETRI** - Research Intern(_2023.01-2023.02_)<br/>
+  
+- **IITP K-SW Sqaure Program** - Purdue University Visiting Scholar(_2022.09-2022.12_)<br/>
 <br/>
 
    
    
 ## 🏆 Awards
+- **FURIOSA AI Hackathon**, 2nd(_2023.11_)<br/>
+Development of a skin diagnostic application service using an NPU based vision model<br/>
 
 - **Marine Fisheries Big Data Analysis Competition**, 3rd(_2021.08_)<br/>
 Maritime Logistics Freight Rate Prediction using LSTM model
 <br/>
 
+## 📜 Conferences
+- **Kim, M.**, Lee, W. H. (2024, Jun). **Generality evaluation of meta-matching models for cognitive function prediction with small datasets**. In Human Brain Mapping Annual Conference.<br/>
 
+- Jo, H., Lee, J., Park, H. W., **Kim, M.**, Kim, Y., \& Lee, W. H. (2023, Oct). **Developing an Integrated Dashboard to Analyze Multimodal Data for User Experience Evaluation**. In 2023 IEEE ICCE-Asia.<br/>
+
+- **Kim, M.**, Jeong, H., Moon, J., Na, D., Choi, W., Lee, S., O’Sullivan, E., \& Smith, A. (2023, Oct). **Outdoor Long Range Ubiquitous Projectiles Tracking System Using P-MPLR and Computer Vision**. In 2023 14th ICTC.<br/>
+<br/>
 <!--
-Furiosa AI
 
-## 📜 Conference
-2023 ICTC
-2023 ICCE-ASIA
-2023 CSA
-2023 KSC
+
 
 ## 🔠 Copyrights
 C-2023-044704
